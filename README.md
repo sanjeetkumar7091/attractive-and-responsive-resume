@@ -30,7 +30,7 @@ This project is an interactive online resume built using HTML, CSS, and JavaScri
 - Tested on major modern browsers for compatibility.
 
 ## Author
-Your Name
+SANJEET KUMAR VERMA
 
 ## License
 This project is open source and free to use.
